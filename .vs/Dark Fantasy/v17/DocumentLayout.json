@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\weaponholderslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponholderslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|d:\\unityhub\\unityprojects\\dark fantasy\\assets\\scripts\\damagecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\weaponslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playerattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\animatorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\weaponitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\resetanimationbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetanimationbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playerlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|D:\\UnityHub\\UnityProjects\\Dark Fantasy\\assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C996D9-608D-E74E-0A40-EEF18EF3CFA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimatorHandler.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\AnimatorHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimatorHandler.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\AnimatorHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimatorHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwGwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:08:45.772Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponHolderSlot.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponHolderSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponHolderSlot.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponHolderSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponHolderSlot.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamageCollider.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\DamageCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageCollider.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\DamageCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:34:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyStats.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyStats.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:22:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeaponSlotManager.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponSlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponSlotManager.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponSlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponSlotManager.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:33:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInventory.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInventory.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADgvzcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputHandler.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputHandler.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAywIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DamagePlayer.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\DamagePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePlayer.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\DamagePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerAttacker.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerAttacker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAttacker.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerAttacker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAttacker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:51.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeaponItem.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponItem.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\WeaponItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetAnimationBool.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\ResetAnimationBool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetAnimationBool.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\ResetAnimationBool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetAnimationBool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:14.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerLocomotion.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerLocomotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLocomotion.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerLocomotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLocomotion.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerControls.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControls.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControls.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:06.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:40:00.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CameraHandler.cs",
+              "DocumentMoniker": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraHandler.cs",
+              "ToolTip": "D:\\UnityHub\\UnityProjects\\Dark Fantasy\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:39:49.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
