@@ -32,7 +32,6 @@ namespace SG
         PlayerInventory playerInventory;
         PlayerManager playerManager;
 
-
         Vector2 movementInput;
         Vector2 cameraInput;
 
@@ -42,7 +41,6 @@ namespace SG
             playerInventory = GetComponent<PlayerInventory>();
             playerManager = GetComponent<PlayerManager>();
         }
-
 
         public void OnEnable()
         {

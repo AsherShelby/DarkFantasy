@@ -8,13 +8,15 @@ namespace SG
 {
     public class AnimatorHandler : MonoBehaviour
     {
-        PlayerManager playerManager;
-        public Animator anim;
-        InputHandler inputHandler;
-        PlayerLocomotion playerLocomotion;
+        
         int vertical;
         int horizontal;
         public bool canRotate;
+        public Animator anim;
+
+        PlayerManager playerManager;
+        InputHandler inputHandler;
+        PlayerLocomotion playerLocomotion;
 
         public void Initialized()
         {
@@ -110,6 +112,7 @@ namespace SG
         {
             anim.SetBool("canDoCombo", true);
         }
+
         public void DisableCombo()
         {
             anim.SetBool("canDoCombo", false);

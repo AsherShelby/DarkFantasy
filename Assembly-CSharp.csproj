@@ -63,20 +63,27 @@
     <Compile Include="Assets\Scripts\AnimatorHandler.cs" />
     <Compile Include="Assets\Scripts\DamageCollider.cs" />
     <Compile Include="Assets\Scripts\WeaponSlotManager.cs" />
+    <Compile Include="Assets\ExtendImage.cs" />
     <Compile Include="Assets\Scripts\PlayerAttacker.cs" />
     <Compile Include="Assets\Scripts\DamagePlayer.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Scripts\InputHandler.cs" />
     <Compile Include="Assets\Resources\PolygonFantasyHeroCharacters\Scripts\CharacterRandomizer.cs" />
+    <Compile Include="Assets\ExtendImageEditor.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\PlayerInventory.cs" />
     <Compile Include="Assets\Scripts\WeaponItem.cs" />
+    <Compile Include="Assets\MyToggle.cs" />
     <Compile Include="Assets\Scripts\EnemyStats.cs" />
     <Compile Include="Assets\Scripts\PlayerLocomotion.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\SkillItem.cs" />
+    <Compile Include="Assets\ChangeColor.cs" />
     <Compile Include="Assets\Scripts\CameraHandler.cs" />
     <Compile Include="Assets\Scripts\WeaponHolderSlot.cs" />
+    <Compile Include="Assets\Scripts\StartGame.cs" />
     <Compile Include="Assets\Scripts\Item.cs" />
+    <Compile Include="Assets\SlicedFilledImage.cs" />
     <Compile Include="Assets\Scripts\PlayerControls.cs" />
     <Compile Include="Assets\Scripts\PlayerStats.cs" />
     <Compile Include="Assets\Scripts\ResetAnimationBool.cs" />
@@ -1025,6 +1032,10 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">

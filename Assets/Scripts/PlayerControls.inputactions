@@ -194,6 +194,17 @@
                 },
                 {
                     "name": "",
+                    "id": "b4d9442b-58bb-4d01-a124-40db3600bafd",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "1658c6e0-7e0d-4a88-9f76-0739690472be",
                     "path": "<Keyboard>/r",
                     "interactions": "",
@@ -255,6 +266,17 @@
                     "name": "",
                     "id": "122d8fa0-bd9a-466b-abc8-015a706002e2",
                     "path": "<Gamepad>/dpad/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DPadRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "615f53a0-b75d-48b4-ae09-8376c71d0663",
+                    "path": "<Mouse>/middleButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

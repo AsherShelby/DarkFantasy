@@ -8,7 +8,7 @@ namespace SG
     public class PlayerAttacker : MonoBehaviour
     {
         public AnimatorHandler animatorHandler;
-        InputHandler inputHandler;
+        private InputHandler inputHandler;
         public string lastAttack;
 
         private void Awake()
@@ -40,12 +40,22 @@ namespace SG
 
         public void HandleLightAttack(WeaponItem weapon)
         {
+            if (weapon == null)
+            {
+                Debug.Log("No weapons");
+                return;
+            }
             animatorHandler.PlayTargetAnimation(weapon.OH_Light_Attack_1, true);
             lastAttack = weapon.OH_Light_Attack_1;
         }
 
         public void HandleHeavyAttack(WeaponItem weapon)
         {
+            if (weapon == null)
+            {
+                Debug.Log("No weapons");
+                return;
+            }
             animatorHandler.PlayTargetAnimation(weapon.OH_Heavy_Attack_1, true);
             lastAttack = weapon.OH_Light_Attack_1;
         }
